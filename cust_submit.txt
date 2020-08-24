@@ -1,0 +1,24 @@
+if(isset($_POST['b2']))
+{
+	$i=$_POST['t1'];
+	$s="select * from cust_reg where id='$i'";
+	$res=mysqli_query($con,$s);
+	while($r=mysqli_fetch_array($res))
+	{
+		$cid=$r[0];
+		$nm=$r[1];
+		$add=$r[2];
+		$cn=$r[3];
+		$gen=$r[4];
+		$gma=$r[5];
+		$city=$r[6];
+		$state=$r[7];
+		$pin=$r[8];
+		$uname=$r[9];
+		$pass=$r[10];
+	}
+}
+
+<tr>
+<td></td><td><input type="submit" name="b2" value="Display"></td>
+</tr>
