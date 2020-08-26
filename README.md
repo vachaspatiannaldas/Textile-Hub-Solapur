@@ -25,6 +25,11 @@ This is the login/signup page of Textile-Hub-Solapur
 ![login](https://user-images.githubusercontent.com/68384029/91289111-8121f200-e7af-11ea-9616-4e78f54a832d.png)
 
 
+This is the Shopping cart page of Textile-Hub-Solapur
+
+![placeorder](https://user-images.githubusercontent.com/68384029/91289918-95b2ba00-e7b0-11ea-8b40-2c6806226f9c.png)
 
 
+This is the single shop page of Textile-Hub-Solapur
 
+![single_shop](https://user-images.githubusercontent.com/68384029/91290300-1376c580-e7b1-11ea-9f5d-7faf11cfbd18.png)
