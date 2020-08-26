@@ -15,3 +15,9 @@ This is the about page of Textile-Hub-Solapur
 ![about](https://user-images.githubusercontent.com/68384029/91288290-731fa180-e7ae-11ea-96ac-309a775e49a2.png)
 
 
+This is the contact page of Textile-Hub-Solapur
+
+![contact](https://user-images.githubusercontent.com/68384029/91288849-196ba700-e7af-11ea-965b-70dce3f79a88.png)
+
+
+
